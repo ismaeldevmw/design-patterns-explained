@@ -13,3 +13,5 @@ php 01-factory-pattern.php
    
 ## 1. Breve introducción a los patrones de diseño
 [Post del resumen en imagen](https://www.patreon.com/posts/38798768)
+![introduccion-patrones-de-diseño](https://user-images.githubusercontent.com/13697123/120575848-66884380-c3e7-11eb-86d1-a1e6dc36b4a1.jpg)
+
